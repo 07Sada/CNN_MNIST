@@ -1,1 +1,1 @@
-# Sada
+CNN model on MNIST dataset
